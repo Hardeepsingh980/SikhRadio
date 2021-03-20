@@ -1,0 +1,79 @@
+[
+    {
+        "name": "All Gurbani Styles ",
+        "description": "Hear all different types of Gurbani music from hundreds of different musicians. This is the original SikhNet Radio channel that is a mix of all styles of Gurbani Kirtan.",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/rad-icon-ch1-large.jpg?itok=oNfOMa3A",
+        "url": "https://radio.sikhnet.com/accounts/channel1/autodj",
+        "type": 1
+    },
+    {
+        "name": "Western - Non Traditional ",
+        "description": "Gurbani and other related music that is not the traditional Indian style. The music generally has a very \"western\" American flavor, with different styles of vocals and instruments.",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-2-large.jpg?itok=Nski8dO3",
+        "url": "https://radio.sikhnet.com/accounts/channel2/autodj",
+        "type": 1
+    },
+    {
+        "name": "Classical Raag ",
+        "description": "Listen to Gurbani Kirtan in Raag (Indian classical music), a\u00a0powerful and structured form of music using specific scales and notes. Almost all Gurbani has been written to raag but not always sung in raag.",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/SikhNetClassRadioChannelThumb.jpg?itok=mjxcXDfn",
+        "url": "https://radio.sikhnet.com/accounts/channel3/autodj",
+        "type": 1
+    },
+    {
+        "name": "Simran ",
+        "description": "You can chant with this meditative repetition of Gods Name - Waheguru. The audio on this channel is meant for meditation & repetition of Vaheguru.",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-4-large.jpg?itok=SvSMNnMx",
+        "url": "https://radio.sikhnet.com/accounts/channel4/autodj",
+        "type": 1
+    },
+    {
+        "name": "Akhand Kirtan Jatha",
+        "description": "The Akhand Keertanee Jathaa (AKJ) is dedicated to the Sikh lifestyle. The Jathaa follows a strict discipline in keeping the Rehit of Guru Gobind Singh Jee.",
+        "img": "https://i.ytimg.com/vi/dOksUJxq9tg/mqdefault.jpg",
+        "url": "http://www.kpanth.net:8000/akjdotorglive",
+        "type": 1 
+    },
+    {
+        "name": "Sri Akhand Paath Sahib ",
+        "description": "Listen to a continuous recitation of the Siri Guru Granth Sahib. This will play through the Akhand Paath unbroken in 5 different versions. You can also download the Akhand Path mp3 files on your computer.\u00a0Listen to the Akhand Path by calling SikhNet's Phone Line",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-5-large.jpg?itok=piogUh_P",
+        "url": "https://radio.sikhnet.com/accounts/channel5/autodj",
+        "type": 1
+    },
+    {
+        "name": "Siri Guru Granth Sahib in English ",
+        "description": "The first complete audio recording in English of the spiritual text of the Sri Guru Granth Sahib with beautiful, soothing background music. \u00a0This relaxing recording enables an English speaking audience to understand and experience the spiritual wisdom of the Sikh Faith. English translation by Dr. Sant Singh Khalsa and voice recordings by Sirgun Kaur and nine other contributors.",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/SGGS-English-album-cover_0.jpg?itok=PUm3CA9j",
+        "url": "https://radio.sikhnet.com/accounts/sggsenglish/autodj",
+        "type": 1
+    },
+    {
+        "name": "The Classics ",
+        "description": "Listen to all the old time Gurbani classics from the 1960's, 70's and 80's. This is a mix of Kirtan of recordings from back in the day.",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-6-large.jpg?itok=vc7iwpJt",
+        "url": "https://radio.sikhnet.com/accounts/channel6/autodj",
+        "type": 1
+    },
+    {
+        "name": "Gurbani Katha - Punjabi ",
+        "description": "Learn and get a deeper understanding of Gurbani by listening to audio katha. Dedicated to Punjabi and English Katha, inspiring talks about the message and meaning of the Guru's teachings. \u00a0You can listen to all the audios directly on the Gurbani Media Center",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/gyani-sant-singh-ji-maskeen.jpg?itok=WcLM_p5e",
+        "url": "https://radio.sikhnet.com/accounts/katha/autodj",
+        "type": 1
+    },
+    {
+        "name": "Gurbani Katha - English ",
+        "description": "Listen to the Guru's teachings, stories from Sikh history, Podcasts, audio version of Q&A on various topics from different Sikh seva organizations in English.",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/SikhNet-Radio-Gurbani-Katha-in-English-thumbnail.jpg?itok=4pW2O_9f",
+        "url": "https://radio.sikhnet.com/accounts/kathaenglish/autodj",
+        "type": 1
+    },
+    {
+        "name": "Stories ",
+        "description": "Children (AND Adults) of all faiths and religions will enjoy these stories of spiritual principles and consciousness. Stories highlighting universal values of helping others, compassion, prayer, courage, sharing, and the oneness of all people capture the hearts and imagination of children of all ages. Also checkout the full featured mobile app for the stories. Or see the individuals stories online.",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/bookcover_story_book.jpg?itok=nOFG24Dv",
+        "url": "https://radio.sikhnet.com/accounts/stories/autodj",
+        "type": 1
+    }
+]

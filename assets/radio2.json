@@ -1,0 +1,177 @@
+[
+    {
+        "name": "Sri Harimandir Sahib ",
+        "description": "Amritsar, Punjab, India",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-9-large.jpg?itok=tU1VYI2S",
+        "url": "https://radio.sikhnet.com/accounts/channel9/live",
+        "type": 0
+    },
+    {
+        "name": "Gurdwara Dukh Niwaran Sahib ",
+        "description": "Ludhiana, Punjab, India",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/gdnsldh-rad-thumb.jpg?itok=hMeuOiwT",
+        "url": "https://radio.sikhnet.com/accounts/channel10/live",
+        "type": 0
+    },
+    {
+        "name": "Takhat Sachkhand Sri Hazur Sahib ",
+        "description": "Nanded, Maharashtra, India",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-7-large_2.jpg?itok=N6BWryds",
+        "url": "https://radio.sikhnet.com/accounts/channel7/live",
+        "type": 0
+    },
+    {
+        "name": "Gurdwara Bangla Sahib ",
+        "description": "New Delhi, India",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/800px-front_view_of_gurudwara_bangla_sahib_delhi_0.jpg?itok=6x_319nd",
+        "url": "https://radio.sikhnet.com/accounts/gbanglasahib/live",
+        "type": 0
+    },
+    {
+        "name": "Gurdwara Sis Ganj Sahib ",
+        "description": "Chandni Chowk, Delhi, India",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/Sis-Ganj-Sahib-Delhi4.jpg?itok=Fx3puaAY",
+        "url": "https://radio.sikhnet.com/accounts/gsisganjsahib/live",
+        "type": 0
+    },
+    {
+        "name": "Dasmesh Darbar ",
+        "description": "Surrey, BC. Canada",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-8-large.jpg?itok=zVSCOC6c",
+        "url": "https://radio.sikhnet.com/accounts/channel8/live",
+        "type": 0
+    },
+    {
+        "name": "Dukh Nivaran Sahib ",
+        "description": "Surrey, British Columbia, Canada",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/grd-dukh-nivaran-sahib-surrey.jpg?itok=RITLCW6X",
+        "url": "https://radio.sikhnet.com/accounts/channel23/live",
+        "type": 0
+    },
+    {
+        "name": "Fremont ",
+        "description": "Fremont, California, USA",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-13-large.jpg?itok=aCM75hrC",
+        "url": "https://radio.sikhnet.com/accounts/channel13/live",
+        "type": 0
+    },
+    {
+        "name": "Dashmesh Culture Center ",
+        "description": "Calgary, Alberta, Canada",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-17-large.jpg?itok=Ms2XFncM",
+        "url": "https://radio.sikhnet.com/accounts/channel17/live",
+        "type": 0
+    },
+    {
+        "name": "Guru Nanak Sikh Gurdwara ",
+        "description": "Surrey, British Columbia, Canada",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-21-large.jpg?itok=GjQ8ifnz",
+        "url": "https://radio.sikhnet.com/accounts/channel21/live",
+        "type": 0
+    },
+    {
+        "name": "Gurdwara San Jose ",
+        "description": "San Jose, California, USA",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/171408E2-1C90-4FC1-827D-16004F6D61E9.jpeg?itok=Vzvc1Syg",
+        "url": "https://radio.sikhnet.com/accounts/channel18/live",
+        "type": 0
+    },
+    {
+        "name": "Western Singh Sabha ",
+        "description": "Williams Lake, British Columbia, Canada",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/western-singh-sabha-williams-lake-bc-canada-sm.jpg?itok=BMAY3Jv_",
+        "url": "https://radio.sikhnet.com/accounts/channel16/live",
+        "type": 0
+    },
+    {
+        "name": "Sukh Sagar ",
+        "description": "New Westminster, BC, Canada",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/161006-Sukh-Sagar-Gurdwara-015_picture_cover.jpg?itok=hM8i3nSH",
+        "url": "https://radio.sikhnet.com/accounts/channel11/live",
+        "type": 0
+    },
+    {
+        "name": "Hacienda De Guru Ram Das ",
+        "description": "Espanola, New Mexico, USA",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-12-large.jpg?itok=J2qWBr2T",
+        "url": "https://radio.sikhnet.com/accounts/channel12/live",
+        "type": 0
+    },
+    {
+        "name": "Singh Sabha Washington ",
+        "description": "Renton, Washington, USA",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/GWSahib-Renton.jpg?itok=-mN83USZ",
+        "url": "https://radio.sikhnet.com/accounts/channel19/live",
+        "type": 0
+    },
+    {
+        "name": "Singh Sabha Surrey ",
+        "description": "Surrey, British Columbia, Canada",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-20-large.jpg?itok=jGI-1GFR",
+        "url": "https://radio.sikhnet.com/accounts/channel20/live",
+        "type": 0
+    },
+    {
+        "name": "Siri Guru Singh Sabha ",
+        "description": "Derby, UK",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-24-large.jpg?itok=vGNlh5mr",
+        "url": "https://radio.sikhnet.com/accounts/channel24/live",
+        "type": 0
+    },
+    {
+        "name": "Nanak Naam Jahaj ",
+        "description": "New Jersey - USA",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-26-large.jpg?itok=w-6lqoaA",
+        "url": "https://radio.sikhnet.com/accounts/channel26/live",
+        "type": 0
+    },
+    {
+        "name": "El Sobrante ",
+        "description": "El Sobrante, California, USA",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-27-large.jpg?itok=uWzZ6Hn2",
+        "url": "/webapps/radio/playlist.php?c=channel27&m=med.pls",
+        "type": 0
+    },
+    {
+        "name": "Stockton Sikh Temple ",
+        "description": "Stockton, California, USA",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-29-large.jpg?itok=GnxTlVTI",
+        "url": "https://radio.sikhnet.com/accounts/channel29/live",
+        "type": 0
+    },
+    {
+        "name": "Sri Guru Singh Sabha Malton ",
+        "description": "Mississauga ON, Canada",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/radio-icon-30-large.jpg?itok=3eGEg_Lq",
+        "url": "https://radio.sikhnet.com/accounts/channel30/live",
+        "type": 0
+    },
+    {
+        "name": "Gurdwara Sahib West Sacramento ",
+        "description": "Sacramento, CA, USA",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/111-700x300_0.jpg?itok=BeRLYN0J",
+        "url": "https://radio.sikhnet.com/accounts/wsacramento/live",
+        "type": 0
+    },
+    {
+        "name": "Gurdwara Sahib Glenwood ",
+        "description": "Sydney, Australia",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/gurdwara_sahib_glenwood_0.jpg?itok=0RqbwMkJ",
+        "url": "https://radio.sikhnet.com/accounts/glenwood/live",
+        "type": 0
+    },
+    {
+        "name": "Guru Nanak Dwara ",
+        "description": "Phoenix, Arizona - USA",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/guru-nanak-dwara-phoenix-az.jpg?itok=6dO8ZVrX",
+        "url": "https://radio.sikhnet.com/accounts/gurunanakdwara/live",
+        "type": 0
+    },
+    {
+        "name": "Ontario Khalsa Darbar ",
+        "description": "Dixie Road, Mississauga, Ontario",
+        "img": "https://www.sikhnet.com/files/styles/radio-channel-thumb/public/radio/images/channels/khalsa-darbar-ontario-dixie.png?itok=ja1SxG0s",
+        "url": "https://www.youtube.com/watch?v=PBPgkAm-Pj0",
+        "type": 0
+    }
+]
